@@ -1,0 +1,16 @@
+/* tuyen custom */
+
+
+.dropdown-menu li.dropdown > ul.dropdown-menu {
+    display:none;
+    //left:;
+    //right: 100%;
+}
+.dropdown-menu li.dropdown:hover > ul.dropdown-menu {
+    display: block;
+    left:180px;
+    top:-50%;
+    //right: 100%;
+/*    padding-right:52px;*/
+}
+/*#logo{height: 110px}*/
